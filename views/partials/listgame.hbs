@@ -1,0 +1,35 @@
+<table class="ui fixed striped table">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Developer</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each gamelist.games}}
+      <tr>
+        <td>
+          {{title}}
+        </td>
+        <td>
+          {{developer}}
+        </td>
+        <td>
+          {{review}}
+        </td>
+        <td>
+          <a href="/gamelist/{{../gamelist.id}}/deletegame/{{id}}" class="ui tiny black button delgame"><i class="ui trash icon"></i></a>
+        </td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
+
+<p>
+  <span id="rating"> </span>
+</p>
+
+<button class="ui blue button" id = "rateit">
+  Rate it! <i class="star icon"></i>
+</button>

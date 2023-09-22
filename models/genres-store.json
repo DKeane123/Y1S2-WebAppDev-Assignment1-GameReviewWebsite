@@ -1,0 +1,85 @@
+{
+  "genresCollection": [
+    {
+      "id": "01",
+      "title": "Shooters/FPS Games",
+      "description": "A genre where you fight AI or other players while using guns ",
+      "games": [
+        {
+          "id": "014",
+          "title": "Call of Duty Vanguard",
+          "developer": "Activision",
+          "review": "OK but a downgrade from previous titles"
+        },
+        {
+          "id": "025",
+          "title": "Hunt Showdown",
+          "developer": "Crytek",
+          "review": "The best shooter in the genre"
+        },
+        {
+          "id": "036",
+          "title": "Titanfall 2",
+          "developer": "Respawn Entertainment",
+          "review": "A serious step-up from the previous game"
+        },
+        {
+          "id": "24a4a0a3-b29f-46bb-9187-1bf785036040",
+          "title": "Battlefield 2042",
+          "developer": "Dice",
+          "review": "Horrible Launch State!!!!"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Battle Royale Games",
+      "description": "A genre where you and a select number of players battle to be the last alive",
+      "games": [
+        {
+          "id": "017",
+          "title": "Crab Game",
+          "developer": "Dani",
+          "review": "*Crab Game Music Starts*"
+        },
+        {
+          "id": "028",
+          "title": "Fortnite",
+          "developer": "Epic Games",
+          "review": "Fell off real bad"
+        },
+        {
+          "id": "039",
+          "title": "PUBG",
+          "developer": "PUBG Studios",
+          "review": "When was this even popular"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Open World",
+      "description": "A genre where you explore a vast world alone or with friends",
+      "games": [
+        {
+          "id": "010",
+          "title": "Elden Ring",
+          "developer": "From Software",
+          "review": "Best game 2022"
+        },
+        {
+          "id": "011",
+          "title": "Horizon Forbidden West",
+          "developer": "Guerrilla Games",
+          "review": "Very good graphics and story"
+        },
+        {
+          "id": "012",
+          "title": "Assassin's Creed Valhalla",
+          "developer": "Ubisoft Montréal",
+          "review": "Really like the setting and history"
+        }
+      ]
+    }
+  ]
+}
